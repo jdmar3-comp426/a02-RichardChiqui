@@ -1,0 +1,22 @@
+{
+  "name": "a02-richardchiqui",
+  "version": "1.0.0",
+  "description": "A02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a02-RichardChiqui.git"
+  },
+  "author": "RichardChiqui",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-RichardChiqui/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-RichardChiqui#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5"
+  }
+}
